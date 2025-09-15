@@ -1,7 +1,3 @@
-//
-// Created by Андрей Подвысоцкий on 15.09.2025.
-//
-
 #pragma once
 #include <utility>   // std::move, std::swap
 #include <cstddef>   // std::ptrdiff_t
